@@ -1,7 +1,7 @@
 {
     "version": 1,
     "mod_name": "Minecraft",
-    "mod_version": "1.6.4",
+    "mod_version": "1.7.10",
     "description": "Crafting recipes from vanilla Minecraft",
     "raw_materials": [
         "Emerald",
